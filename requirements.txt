@@ -1,0 +1,5 @@
+requests
+eyed3==0.8
+pycryptodome
+quamash
+PyQt5
